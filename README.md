@@ -2,7 +2,7 @@
 This is the updated natural language processing. I will address all the ten revisions here in Read Me. The documentation is mainly about the set up and content of the natural language processing, and is also updated. Please download this zip and run all the cells. I have included the entire project, not only the updated section.
 
 # Download File
-Please download the "output" folder and the "bert LLM Natural Language Processing" folder at https://www.mediafire.com/folder/tmtou63yyo0dm/BERT_statistical_model. The file size is 1 GB. Then, please put these two folders in the zip folder, the same location as the Jupyter Notebook. If you want, you could choose to not download the file. The main reason for download is that you don't have to wait to train the natural language processing model. Please see the "Updated Statistical Model" section in the Jupyter Notebook for detail.
+Please also download the "output" folder and the "bert LLM Natural Language Processing" folder at https://www.mediafire.com/folder/tmtou63yyo0dm/BERT_statistical_model. The file size is 1 GB. Then, please put these two folders in the zip folder, the same location as the Jupyter Notebook. If you want, you could choose to not download the file. The main reason for download is that you don't have to wait to train the natural language processing model. Please see the "Updated Statistical Model" section in the Jupyter Notebook for detail.
 
 # Revision
 
